@@ -63,6 +63,6 @@ endmodule
 
 
 **RESULTS**
-RESULTS
+RESULTS 
 
 Implementing SISO Shift Register using verilog and validating their functionality using their functional tables is VERIFIED
